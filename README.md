@@ -1,2 +1,3 @@
 # Profesional-Portfolio
-New web page portfolio
+
+## Updated Portfolio for future use with a built in resume.
